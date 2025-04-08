@@ -1,2 +1,2 @@
-# Azure AI services on containres samples
+# Azure AI services on containers samples
 Azure AI Containers samples
