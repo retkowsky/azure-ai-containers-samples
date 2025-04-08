@@ -1,5 +1,11 @@
 # Azure AI services on containers samples
 
+Azure AI services provide several Docker containers that let you use the same APIs that are available in Azure, on-premises. Using these containers gives you the flexibility to bring Azure AI services closer to your data for compliance, security or other operational reasons. Container support is currently available for a subset of Azure AI services.
+Azure AI containers allow developers to use the same intelligent APIs that are available in Azure, but with the benefits of containerization.
+Container services offer similar feature capabilities as the corresponding cloud service. Customers can deploy the containers on-premise. The core AI technology, pricing tiers, API keys, and API signature are the same between the container and the corresponding cloud services. 
+
+![image](https://github.com/user-attachments/assets/25475db5-e981-4b59-9d74-2d656775d108)
+
 ## Documentation
 - Azure AI Containers documentation: 
 https://learn.microsoft.com/en-us/azure/cognitive-services/containers/
