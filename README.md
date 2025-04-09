@@ -8,15 +8,17 @@ Container services offer similar feature capabilities as the corresponding cloud
 ## Documentation
 - Azure AI Containers documentation:<br>
 https://learn.microsoft.com/en-us/azure/cognitive-services/containers/
-- FAQ for Azure AI Containers:<br>
-https://learn.microsoft.com/en-us/azure/cognitive-services/containers/container-faq
 - Application for Disconnected Containers:<br>
 https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNDVVMVBPV09ITVBBR0E5T05QQ1VESFlSMCQlQCN0PWcu
-- FAQ for Azure AI Disconnected containers:<br>
-https://learn.microsoft.com/en-us/azure/ai-services/containers/disconnected-container-faq
-- List of Microsoft containers:<br>
+- Microsoft containers:<br>
 https://mcr.microsoft.com/en-us/<br>
 https://hub.docker.com/u/microsoft
+
+## FAQ
+- FAQ for Azure AI Containers:<br>
+https://learn.microsoft.com/en-us/azure/cognitive-services/containers/container-faq
+- FAQ for Azure AI Disconnected containers:<br>
+https://learn.microsoft.com/en-us/azure/ai-services/containers/disconnected-container-faq
 
 ## Demos videos
 https://aka.ms/azureai-edge-demosvideos 
