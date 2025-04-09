@@ -1,20 +1,20 @@
 # Azure AI services on containers samples
 <img src="container.png" width=300>
 
-- Azure AI services provide several Docker containers that let you use the same APIs that are available in Azure, on-premises. Using these containers gives you the flexibility to bring Azure AI services closer to your data for compliance, security or other operational reasons. Container support is currently available for a subset of Azure AI services.<br>
-- Azure AI containers allow developers to use the same intelligent APIs that are available in Azure, but with the benefits of containerization.
-Container services offer similar feature capabilities as the corresponding cloud service. Customers can deploy the containers on-premise. The core AI technology, pricing tiers, API keys, and API signature are the same between the container and the corresponding cloud services. 
+- **Azure AI services provide several Docker containers** that let you use the same APIs that are available in** Azure, on-premises**. Using these containers gives you the flexibility to bring Azure AI services closer to your data for compliance, security or other operational reasons. Container support is currently available for a subset of Azure AI services.<br>
+- Azure AI containers allow developers to use the same intelligent APIs that are available in Azure, but with the **benefits of containerization**.
+Container services offer similar feature capabilities as the corresponding cloud service. **Customers can deploy the containers on-premise**. The core AI technology, pricing tiers, API keys, and API signature are the same between the container and the corresponding cloud services. 
 
 ## Documentation
-- Azure AI Containers documentation: 
+- Azure AI Containers documentation:<br>
 https://learn.microsoft.com/en-us/azure/cognitive-services/containers/
-- FAQ for Azure AI Containers: 
+- FAQ for Azure AI Containers: <br>
 https://learn.microsoft.com/en-us/azure/cognitive-services/containers/container-faq
-- Application for Disconnected Containers: 
+- Application for Disconnected Containers: <br>
 https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNDVVMVBPV09ITVBBR0E5T05QQ1VESFlSMCQlQCN0PWcu
-- FAQ for Azure AI Disconnected containers: 
+- FAQ for Azure AI Disconnected containers: <br>
 https://learn.microsoft.com/en-us/azure/ai-services/containers/disconnected-container-faq 
-- List of Microsoft containers: 
+- List of Microsoft containers: <br>
 https://mcr.microsoft.com/en-us/ 
 
 ## Demos videos
