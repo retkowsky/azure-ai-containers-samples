@@ -11,10 +11,14 @@ A container is encapsulated in a container image that defines the software and c
 ## Container deployment
 To use a container, you typically pull the container image from a registry and deploy it to a container host, specifying any required configuration settings. The container host can be in the cloud, in a private network, or on your local computer. For example:
 
-- A Docker* server. https://docs.docker.com/
-- An Azure Container Instance (ACI). https://learn.microsoft.com/en-us/azure/container-instances/
-- Azure Container Apps (full serverless with scaling to 0) https://learn.microsoft.com/en-us/azure/container-apps/overview
-- An Azure Kubernetes Service (AKS) cluster. https://learn.microsoft.com/en-us/azure/container-apps/overview
+- A Docker* server.<br>
+  https://docs.docker.com/
+- An Azure Container Instance (ACI)<br>
+  https://learn.microsoft.com/en-us/azure/container-instances/
+- An Azure Container Apps (full serverless with scaling to 0)<br>
+  https://learn.microsoft.com/en-us/azure/container-apps/overview
+- An Azure Kubernetes Service (AKS) cluster<br>
+  https://learn.microsoft.com/en-us/azure/container-apps/overview
   
 *Docker is an open source solution for container development and management that includes a server engine that you can use to host containers. There are versions of the Docker server for common operating systems, including Microsoft Windows and Linux.
 
