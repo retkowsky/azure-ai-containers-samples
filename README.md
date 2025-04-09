@@ -27,6 +27,9 @@ There are two types of container offerings:
 - **Connected containers:** keeps all the data processing locally but send the billing data to the cloud so you are charged as you use the service.
 - **Disconnected containers:** enable you to use several of these APIs disconnected from the internet, with the customer making an upfront payment for a year's worth of consumption with no data sent to the cloud!
 
+## PowerPoint presentation
+<a href="https://github.com/retkowsky/azure-ai-containers-samples/blob/main/Azure%20AI%20services%20Containers.pdf">PowerPoint document</a>
+
 ## Documentation
 - Azure AI Containers documentation<br>
 https://learn.microsoft.com/en-us/azure/cognitive-services/containers/
