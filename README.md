@@ -29,6 +29,7 @@ https://learn.microsoft.com/en-us/training/modules/investigate-container-for-use
 ## Accelerator
 https://github.com/Azure-Samples/AI-KnowlEDGE
 
-
+<br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
+<br>
 Date of creation: 08-April-2025
