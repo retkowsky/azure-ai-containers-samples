@@ -36,5 +36,6 @@ https://github.com/Azure-Samples/AI-KnowlEDGE
 
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
-<br>
+<br><br>
 Date of creation: 08-April-2025
+Updated: 09-April-2025
