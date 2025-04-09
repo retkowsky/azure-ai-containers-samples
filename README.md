@@ -6,7 +6,7 @@
 Container services offer similar feature capabilities as the corresponding cloud service. **Customers can deploy the containers on-premise**. The core AI technology, pricing tiers, API keys, and API signature are the same between the container and the corresponding cloud services. 
 
 ## Types of Containers
-There are two types of container offerings - **Connected Containers** and **Disconnected Containers** 
+There are two types of container offerings: 
 - **Connected containers:** keeps all the data processing locally but send the billing data to the cloud so you are charged as you use the service.
 - **Disconnected containers:** enable you to use several of these APIs disconnected from the internet, with the customer making an upfront payment for a year's worth of consumption with no data sent to the cloud!
 
