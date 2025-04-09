@@ -15,7 +15,7 @@ https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180
 - FAQ for Azure AI Disconnected containers:<br>
 https://learn.microsoft.com/en-us/azure/ai-services/containers/disconnected-container-faq
 - List of Microsoft containers:<br>
-https://mcr.microsoft.com/en-us/
+https://mcr.microsoft.com/en-us/<br>
 https://hub.docker.com/u/microsoft
 
 ## Demos videos
