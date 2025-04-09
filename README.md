@@ -6,18 +6,18 @@
 Container services offer similar feature capabilities as the corresponding cloud service. **Customers can deploy the containers on-premise**. The core AI technology, pricing tiers, API keys, and API signature are the same between the container and the corresponding cloud services. 
 
 ## Documentation
-- Azure AI Containers documentation:<br>
+- Azure AI Containers documentation<br>
 https://learn.microsoft.com/en-us/azure/cognitive-services/containers/
-- Application for Disconnected Containers:<br>
+- Application for Disconnected Containers<br>
 https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNDVVMVBPV09ITVBBR0E5T05QQ1VESFlSMCQlQCN0PWcu
-- Microsoft containers:<br>
+- Microsoft containers<br>
 https://mcr.microsoft.com/en-us/<br>
 https://hub.docker.com/u/microsoft
 
 ## FAQ
-- FAQ for Azure AI Containers:<br>
+- FAQ for Azure AI Containers<br>
 https://learn.microsoft.com/en-us/azure/cognitive-services/containers/container-faq
-- FAQ for Azure AI Disconnected containers:<br>
+- FAQ for Azure AI Disconnected containers<br>
 https://learn.microsoft.com/en-us/azure/ai-services/containers/disconnected-container-faq
 
 ## Demos videos
