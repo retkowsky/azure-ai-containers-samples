@@ -3,8 +3,8 @@
 
 ## What is a container?
 A container comprises an application or service and the runtime components needed to run it, while abstracting the underlying operating system and hardware. In practice, this abstraction results in two significant benefits:
-- Containers are portable across hosts, which may be running different operating systems or use different hardware - making it easier to move an application and all its dependencies.
-- A single container host can support multiple isolated containers, each with its own specific runtime configuration - making it easier to consolidate multiple applications that have different configuration requirement.
+- **Containers are portable across hosts**, which may be running different operating systems or use different hardware - making it easier to move an application and all its dependencies.
+- A single container host can **support multiple isolated containers**, each with its own specific runtime configuration - making it easier to consolidate multiple applications that have different configuration requirement.
 
 A container is encapsulated in a container image that defines the software and configuration it must support. Images can be stored in a central registry, such as Docker Hub, or you can maintain a set of images in your own registry.
 
@@ -37,8 +37,8 @@ https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container
 
 ## Types of Containers
 There are two types of container offerings: 
-- **Connected containers:** keeps all the data processing locally but send the billing data to the cloud so you are charged as you use the service.
-- **Disconnected containers:** enable you to use several of these APIs disconnected from the internet, with the customer making an upfront payment for a year's worth of consumption with no data sent to the cloud!
+- **Connected containers:** keeps all the data processing locally but **send the billing data to the cloud so you are charged as you use the service**.
+- **Disconnected containers:** enable you to use several of these APIs disconnected from the internet, with the customer making an **upfront payment for a year's worth of consumption** with no data sent to the cloud!
 
 ## PowerPoint presentation
 <a href="https://github.com/retkowsky/azure-ai-containers-samples/blob/main/Azure%20AI%20services%20Containers.pdf">PowerPoint document</a>
