@@ -40,6 +40,11 @@ To use a container, you typically pull the container image from a registry and d
   
 *Docker is an open source solution for container development and management that includes a server engine that you can use to host containers. There are versions of the Docker server for common operating systems, including Microsoft Windows and Linux.
 
+### Microsoft Artifact Registry
+<img src="mcr.jpg">
+https://mcr.microsoft.com/en-us/catalog?search=AI&type=partial
+
+
 ### Some docker images
 <img src="docker1.jpg"><br>
 ### Some docker containers
