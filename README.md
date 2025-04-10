@@ -90,8 +90,8 @@ https://learn.microsoft.com/en-us/azure/cognitive-services/containers/
 - Application for Disconnected Containers<br>
 https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNDVVMVBPV09ITVBBR0E5T05QQ1VESFlSMCQlQCN0PWcu
 - Microsoft containers<br>
-1. https://mcr.microsoft.com/en-us/<br>
-2. https://hub.docker.com/u/microsoft
+https://mcr.microsoft.com/en-us/<br>
+https://hub.docker.com/u/microsoft
 
 ## 7. FAQ
 - FAQ for Azure AI Containers<br>
