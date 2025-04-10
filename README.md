@@ -44,6 +44,9 @@ To use a container, you typically pull the container image from a registry and d
 <img src="mcr.jpg">
 https://mcr.microsoft.com/en-us/catalog?search=AI&type=partial
 
+### Docker pull command
+<img src="docker3.jpg">
+
 
 ### Some docker images
 <img src="docker1.jpg"><br>
@@ -86,8 +89,8 @@ https://learn.microsoft.com/en-us/azure/cognitive-services/containers/
 - Application for Disconnected Containers<br>
 https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNDVVMVBPV09ITVBBR0E5T05QQ1VESFlSMCQlQCN0PWcu
 - Microsoft containers<br>
-https://mcr.microsoft.com/en-us/<br>
-https://hub.docker.com/u/microsoft
+1. https://mcr.microsoft.com/en-us/<br>
+2. https://hub.docker.com/u/microsoft
 
 ## FAQ
 - FAQ for Azure AI Containers<br>
