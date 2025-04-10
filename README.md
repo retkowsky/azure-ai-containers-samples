@@ -22,6 +22,11 @@ To use a container, you typically pull the container image from a registry and d
   
 *Docker is an open source solution for container development and management that includes a server engine that you can use to host containers. There are versions of the Docker server for common operating systems, including Microsoft Windows and Linux.
 
+### Some docker images
+<img src="docker1.jpg"><br>
+### Some docker containers
+<img src="docker2.jpg"><br>
+
 ## Azure AI services on containers
 - **Azure AI services provide several Docker containers** that let you use the same APIs that are available in **Azure, on-premises**. Using these containers gives you the flexibility to bring Azure AI services closer to your data for compliance, security or other operational reasons. Container support is currently available for a subset of Azure AI services.<br>
 - Azure AI containers allow developers to use the same intelligent APIs that are available in Azure, but with the **benefits of containerization**.
