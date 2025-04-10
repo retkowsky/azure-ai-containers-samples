@@ -61,13 +61,13 @@ There are two types of container offerings:
 <br><img src="arch2.jpg"><br>
 
 ## Connected container installation
-Docker pull
+1. Docker pull
 ```sh
-docker pull mcr.microsoft.com/azure-cognitive-services/textanalytics/language:latest
+docker pull mcr.microsoft.com/azure-cognitive-services/form-recognizer/layout-3.1
 ```
-Ducker run
+2. Docker run
 ```sh
-docker run -it -p 5000:5000 --memory 6g --cpus 2 mcr.microsoft.com/azure-cognitive-services/textanalytics/language Eula=accept Billing=https://<yourendpoint>.cognitiveservices.azure.com ApiKey=<yourAPIKey>
+docker run --rm -it -p 5000:5000 --memory 18g --cpus 8 mcr.microsoft.com/azure-cognitive-services/form-recognizer/layout-3.1 EULA=accept BILLING=https://<yourendpoint>.cognitiveservices.azure.com ApiKey=<yourAPIKey>
 ```
 
 ## PowerPoint presentation
