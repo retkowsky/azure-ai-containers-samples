@@ -1,5 +1,5 @@
 # Azure AI services on containers samples
-<img src="img/container.png" width=300>
+<img src="img/logo.jpg">
 
 ## 1. What is a container?
 A container comprises an application or service and the runtime components needed to run it, while abstracting the underlying operating system and hardware. In practice, this abstraction results in two significant benefits:
