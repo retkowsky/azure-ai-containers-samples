@@ -8,6 +8,24 @@ A container comprises an application or service and the runtime components neede
 
 A container is encapsulated in a container image that defines the software and configuration it must support. Images can be stored in a central registry, such as Docker Hub, or you can maintain a set of images in your own registry.
 
+## Azure AI containers offer several advantages
+
+**1. High Throughput & Low Latency**
+Containers remove transaction limits, making them perfect for bulk processing, like digitising documents with OCR or analysing historical data.
+Hosting containers close to your infrastructure reduces latency and improves speed.
+
+**2. Control Over Data**
+Azure ensures customer data is encrypted and isolated by region, but API calls may be temporarily stored for up to 48 hours.
+Some industries, such as healthcare or finance, have strict regulations requiring all data to remain on-premises.
+
+**3. Offline Mode or Reduced Bandwidth Usage**
+In scenarios with limited or unstable internet access—like ships at sea or remote regions—containers offer critical offline functionality.
+Containers are also suited for high-critical applications such as emergency services requiring real-time speech-to-text transcription.
+
+**4. Customised Control**
+Gain full control over updates and versioning. Containers offer version-controlled, isolated environments, giving flexibility over when and how updates are applied.
+Containers can be created and removed dynamically.
+
 ## Container deployment
 To use a container, you typically pull the container image from a registry and deploy it to a container host, specifying any required configuration settings. The container host can be in the cloud, in a private network, or on your local computer. For example:
 
