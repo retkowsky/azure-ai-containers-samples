@@ -79,7 +79,7 @@ docker pull mcr.microsoft.com/azure-cognitive-services/form-recognizer/layout-4.
 docker run --rm -it -p 5000:5000 --memory 18g --cpus 8 mcr.microsoft.com/azure-cognitive-services/form-recognizer/layout-4.0 EULA=accept BILLING=https://<yourendpoint>.cognitiveservices.azure.com ApiKey=<yourAPIKey>
 ```
 3. Container is available
-<img src="containerlocalhost.jpg">
+<img src="img/containerlocalhost.jpg">
    
 ## 5. PowerPoint presentation
 <a href="https://github.com/retkowsky/azure-ai-containers-samples/blob/main/Azure%20AI%20services%20Containers.pdf">PowerPoint document</a>
