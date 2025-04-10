@@ -62,6 +62,13 @@ There are two types of container offerings:
 - **Disconnected containers:** enable you to use several of these APIs disconnected from the internet, with the customer making an **upfront payment for a year's worth of consumption** with no data sent to the cloud!
 <br><img src="arch2.jpg"><br>
 
+## Connected container installation
+```sh
+docker pull mcr.microsoft.com/azure-cognitive-services/textanalytics/language:latest
+
+docker run -it -p 5000:5000 --memory 6g --cpus 2 mcr.microsoft.com/azure-cognitive-services/textanalytics/language Eula=accept Billing=https://<yourendpoint>.cognitiveservices.azure.com ApiKey=<yourAPIKey>
+```sh
+
 ## PowerPoint presentation
 <a href="https://github.com/retkowsky/azure-ai-containers-samples/blob/main/Azure%20AI%20services%20Containers.pdf">PowerPoint document</a>
 
