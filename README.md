@@ -44,6 +44,8 @@ To use a container, you typically pull the container image from a registry and d
 <img src="docker1.jpg"><br>
 ### Some docker containers
 <img src="docker2.jpg"><br>
+### Container is ready to use
+<img src="docker3.jpg"><br>
 
 ## Azure AI services on containers
 - **Azure AI services provide several Docker containers** that let you use the same APIs that are available in **Azure, on-premises**. Using these containers gives you the flexibility to bring Azure AI services closer to your data for compliance, security or other operational reasons. Container support is currently available for a subset of Azure AI services.<br>
@@ -56,7 +58,9 @@ https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container
 ## Types of Containers
 There are two types of container offerings: 
 - **Connected containers:** keeps all the data processing locally but **send the billing data to the cloud so you are charged as you use the service**.
+<br><img src="arch1.jpg"><br>
 - **Disconnected containers:** enable you to use several of these APIs disconnected from the internet, with the customer making an **upfront payment for a year's worth of consumption** with no data sent to the cloud!
+<br><img src="arch2.jpg"><br>
 
 ## PowerPoint presentation
 <a href="https://github.com/retkowsky/azure-ai-containers-samples/blob/main/Azure%20AI%20services%20Containers.pdf">PowerPoint document</a>
