@@ -14,6 +14,8 @@ A container is encapsulated in a container image that defines the software and c
 - Azure AI containers allow developers to use the same intelligent APIs that are available in Azure, but with the **benefits of containerization**.
 Container services offer similar feature capabilities as the corresponding cloud service. **Customers can deploy the containers on-premise**. The core AI technology, pricing tiers, API keys, and API signature are the same between the container and the corresponding cloud services.
 
+### 2.1 Advantages
+
 **1. High Throughput & Low Latency**
 Containers remove transaction limits, making them perfect for bulk processing, like digitising documents with OCR or analysing historical data.
 Hosting containers close to your infrastructure reduces latency and improves speed.
@@ -30,10 +32,10 @@ Containers are also suited for high-critical applications such as emergency serv
 Gain full control over updates and versioning. Containers offer version-controlled, isolated environments, giving flexibility over when and how updates are applied.
 Containers can be created and removed dynamically.
 
-### 2.1 List of Azure AI services containers
+### 2.2 List of Azure AI services containers
 https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support
 
-## 2.2 Types of Containers
+## 2.3 Types of Containers
 There are two types of container offerings: 
 - **Connected containers:** keeps all the data processing locally but **send the billing data to the cloud so you are charged as you use the service**.
 <br><img src="arch1.jpg"><br>
