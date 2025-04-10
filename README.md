@@ -63,11 +63,11 @@ There are two types of container offerings:
 ## Connected container installation
 1. Docker pull
 ```sh
-docker pull mcr.microsoft.com/azure-cognitive-services/form-recognizer/layout-3.1
+docker pull mcr.microsoft.com/azure-cognitive-services/form-recognizer/layout-4.0
 ```
 2. Docker run
 ```sh
-docker run --rm -it -p 5000:5000 --memory 18g --cpus 8 mcr.microsoft.com/azure-cognitive-services/form-recognizer/layout-3.1 EULA=accept BILLING=https://<yourendpoint>.cognitiveservices.azure.com ApiKey=<yourAPIKey>
+docker run --rm -it -p 5000:5000 --memory 18g --cpus 8 mcr.microsoft.com/azure-cognitive-services/form-recognizer/layout-4.0 EULA=accept BILLING=https://<yourendpoint>.cognitiveservices.azure.com ApiKey=<yourAPIKey>
 ```
 
 ## PowerPoint presentation
