@@ -45,7 +45,7 @@ To use a container, you typically pull the container image from a registry and d
 ### Some docker containers
 <img src="docker2.jpg"><br>
 ### Container is ready to use
-<img src="docker3.jpg"><br>
+<img src="docker3.png"><br>
 
 ## Azure AI services on containers
 - **Azure AI services provide several Docker containers** that let you use the same APIs that are available in **Azure, on-premises**. Using these containers gives you the flexibility to bring Azure AI services closer to your data for compliance, security or other operational reasons. Container support is currently available for a subset of Azure AI services.<br>
