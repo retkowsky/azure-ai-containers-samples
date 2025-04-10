@@ -1,5 +1,5 @@
 # Azure AI services on containers samples
-<img src="container.png" width=300>
+<img src="img/container.png" width=300>
 
 ## 1. What is a container?
 A container comprises an application or service and the runtime components needed to run it, while abstracting the underlying operating system and hardware. In practice, this abstraction results in two significant benefits:
@@ -38,9 +38,9 @@ https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container
 ## 2.3 Types of Containers
 There are two types of container offerings: 
 - **Connected containers:** keeps all the data processing locally but **send the billing data to the cloud so you are charged as you use the service**.
-<br><img src="arch1.jpg"><br>
+<br><img src="img/arch1.jpg"><br>
 - **Disconnected containers:** enable you to use several of these APIs disconnected from the internet, with the customer making an **upfront payment for a year's worth of consumption** with no data sent to the cloud!
-<br><img src="arch2.jpg"><br>
+<br><img src="img/arch2.jpg"><br>
 
 ## 3. Container deployment
 To use a container, you typically pull the container image from a registry and deploy it to a container host, specifying any required configuration settings. The container host can be in the cloud, in a private network, or on your local computer. For example:
@@ -57,17 +57,17 @@ To use a container, you typically pull the container image from a registry and d
 *Docker is an open source solution for container development and management that includes a server engine that you can use to host containers. There are versions of the Docker server for common operating systems, including Microsoft Windows and Linux.
 
 ### 3.1 Microsoft Artifact Registry
-<img src="mcr.jpg">
+<img src="img/mcr.jpg">
 https://mcr.microsoft.com/en-us/catalog?search=AI&type=partial
 
 ### 3.2 Docker pull command
-<img src="docker3.jpg">
+<img src="img/docker3.jpg">
 
 ### 3.3 Some docker images
-<img src="docker1.jpg"><br>
+<img src="img/docker1.jpg"><br>
 
 ### 3.4 Some docker containers
-<img src="docker2.jpg"><br>
+<img src="img/docker2.jpg"><br>
 
 ## 4. Connected container installation
 1. Docker pull
